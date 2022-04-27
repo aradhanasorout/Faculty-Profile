@@ -5,7 +5,7 @@
   
   ![my picture] 
   
-  ![My CV]
+  ![My CV] https://github.com/aradhanasorout/CV.git
   
   **CAREER OBJECTIVE**
 
