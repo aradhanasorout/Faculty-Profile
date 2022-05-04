@@ -5,7 +5,7 @@
   
   ![my picture] 
   
-  ![My CV] 
+  ![My CV](https://github.com/aradhanasorout/Faculty-Profile/blob/main/CV/ARADHANA%20SOROUT.docx)
   
   **CAREER OBJECTIVE**
 
