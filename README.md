@@ -3,7 +3,7 @@
 ### School of Business Management and Commerce 
 **Designation**- ***Assistant Professor***
   
-  ![my picture] 
+  ![my picture](https://github.com/aradhanasorout/Faculty-Profile/blob/main/Image/Image.jpeg?raw=true)
   
   ![My CV](https://github.com/aradhanasorout/Faculty-Profile/blob/main/CV/ARADHANA%20SOROUT.docx)
   
